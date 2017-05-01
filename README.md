@@ -62,6 +62,7 @@ Elm, Rust, Coq, Julia
 * [Nginx](https://www.nginx.com/)
 
 ### Community
+##### Organizations/Groups
 * Co-founder of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
 * Co-founder of [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * Founder of [colomb-ia](https://github.com/colomb-ia/mision-vision)
@@ -95,7 +96,7 @@ Elm, Rust, Coq, Julia
 * [Basic ConvNet for the German Traffic Signs Dataset](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/solucion-basica)
 
 ### e-Learning
-* [Machine Learning](Vincent Vanhoucke) by Andrew Ng on Coursera
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
 * [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by Geoffrey Hinton on Coursera
 * [Intro to Artificial Inteligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) by Sebastian Thrun and Peter Norvig on Udacity
 * [Artificial Inteligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) by Sebastian Thrun on Udacity
@@ -106,7 +107,7 @@ Elm, Rust, Coq, Julia
 ##### Papers
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) Mnih et al 2013 (Deep Mind)
 * [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) Mnih et al 2015 (Deep Mind)
-* [Playing FPS Games with Deep Reinforcement Learning](http://www.cs.cmu.edu/~dchaplot/papers/aaai17_fps_games.pdf] Glample et al 2017 (Carnegie Mellon)
+* [Playing FPS Games with Deep Reinforcement Learning](http://www.cs.cmu.edu/~dchaplot/papers/aaai17_fps_games.pdf) Glample et al 2017 (Carnegie Mellon)
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) He et al 2015 (Microsoft)
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) Hinton et al 2014 (Toronto University)
 * [Highway Networks](https://arxiv.org/pdf/1505.00387.pdf) Srivastava et al 2015
