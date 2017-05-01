@@ -9,6 +9,12 @@ Data Scientist + Developer with Background in Maths & Physics
 ### Summary
 Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications and my love for functional programming, however my area of interest has always been scientific computation and enjoy programming deep neural networks in tensorflow.
 
+### Areas of Interest
+##### Data Science
+Deep Learning/Neural Networks, Artificial Intelligence, Mathematical Modelling, Simulation, Network Analysis
+##### Development
+Functional Programming, Distributed Systems
+
 ### Programming Languages
 * Python: 6+ years
 * Matlab: 6+ years
@@ -20,22 +26,35 @@ Data Scientist and Developer with background in maths and physics. My two passio
 * Cython: 1+ years
 
 ##### Mini-proyects
-* C
-* Haskell
-* Java
-* Lisp
-
+C, Haskell, Java, Lisp, Scala
 
 ##### Played With
-* Elm
-* Rust
-
-C, C#, Elixir, Python, Java, JavaScript, Matlab, Mathematica, Julia, Haskell, R, Dart, Cython, Lisp, Coq.
+Elm, Rust, Coq, Julia
 
 ### Tools/Frameworks
+##### Data Science
+* Tensorflow (python)
+* Scikit Learn (python)
+* NetworkX (python)
+* Spark (scala/python)
+* AnyLogic (java)
+
+##### Development
+* Phoenix Framework (elixir)
+* Unity3D (c#)
+* PostgreSQL
+* MongoDB
+* RethinkDB
 
 ### Community
-
+* Co-founder of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
+* Co-founder of [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
+* Founder of [colomb-ia](https://github.com/colomb-ia/mision-vision)
+##### Talks/Conferences
+* [Deep Learning with TensorFlow](https://www.meetup.com/es-ES/ml-medellin/events/231887878/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
+* [Introduction to Spark](https://www.meetup.com/es-ES/ml-medellin/events/232587669/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
+* [Deep Learning & TensorFlow](https://www.meetup.com/es-ES/Big-Data-Science-Bogota/events/233975872) at [Big Data & Data Science Bogotá](https://www.meetup.com/es-ES/Big-Data-Science-Bogota/)
+* 
 ### Open Source
 
 ### Proyects
@@ -44,8 +63,6 @@ C, C#, Elixir, Python, Java, JavaScript, Matlab, Mathematica, Julia, Haskell, R,
 
 ### Papers I Love
 
-
-Data Scientist and Developer. I have knowledge in machine learning, especially deep learning, modeling and simulation, continuous optimization, heuristics, network theory. Experience in languages like 
 
 I have experience developing mobile Augmented Reality applications, server side applications with relational and non-relational databases, web clients, distributed systems.
 
