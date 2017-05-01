@@ -21,6 +21,10 @@ Functional Programming, Distributed Systems
 * Senseta - Data Scientist (2016)
 * BD Guidance - Data Scientist (current)
 
+### Languages
+* Spanish: native
+* English: C2, bilingual school since 4 years old
+
 ### Programming Languages
 * Python: 6+ years
 * Matlab: 6+ years
