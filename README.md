@@ -46,6 +46,10 @@ Elm, Rust, Coq, Julia
 * MongoDB
 * RethinkDB
 
+##### DevOps
+* Docker
+* Nginx
+
 ### Community
 * Co-founder of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
 * Co-founder of [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
@@ -54,7 +58,15 @@ Elm, Rust, Coq, Julia
 * [Deep Learning with TensorFlow](https://www.meetup.com/es-ES/ml-medellin/events/231887878/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * [Introduction to Spark](https://www.meetup.com/es-ES/ml-medellin/events/232587669/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * [Deep Learning & TensorFlow](https://www.meetup.com/es-ES/Big-Data-Science-Bogota/events/233975872) at [Big Data & Data Science Bogotá](https://www.meetup.com/es-ES/Big-Data-Science-Bogota/)
+* `Deep Learning with TensorFlow` at [pataconf](http://pataconf.com/)
+* `Introduction to Deep Learning with TensorFlow` at [PyCon Colombia](http://www.pycon.co/)
+* `Scalable Deep Learning with TensorFlow` at [ScaleConf Colombia](http://scaleconfco.com/)
+FALTAN OTROS MEETUPS
+##### Webinars
+* [Deep Learning with TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=1s) with BD Guidance on Youtube.
 * 
+FALTAN WEBINARS
+
 ### Open Source
 
 ### Proyects
