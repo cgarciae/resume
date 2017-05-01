@@ -61,11 +61,14 @@ Elm, Rust, Coq, Julia
 * `Deep Learning with TensorFlow` at [pataconf](http://pataconf.com/)
 * `Introduction to Deep Learning with TensorFlow` at [PyCon Colombia](http://www.pycon.co/)
 * `Scalable Deep Learning with TensorFlow` at [ScaleConf Colombia](http://scaleconfco.com/)
-FALTAN OTROS MEETUPS
+* [Machine Learning 2017](https://www.meetup.com/es-ES/ml-medellin/events/235930594/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
+* [TensorFlow for Developers](https://www.meetup.com/es-ES/ml-medellin/events/238072044/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
+
 ##### Webinars
-* [Deep Learning with TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=1s) with BD Guidance on Youtube.
-* 
-FALTAN WEBINARS
+* [Deep Learning with TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI) with BD Guidance on Youtube.
+* [Introduction to Machine Learning](https://www.youtube.com/watch?v=V1asbPsvHM4) with BD Guidance on Youtube.
+* [Neural Networks with TensorFlow for Image Recognition](https://www.youtube.com/watch?v=gD_TJzzA29U) with BD Guidance on Yotube.
+* [Q-Learning with OpenAI Gym + Numpy](https://www.youtube.com/watch?v=Shc-WIuP7oM) with BD Guidance on Yotube.
 
 ### Open Source
 
