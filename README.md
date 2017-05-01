@@ -11,7 +11,7 @@ Data Scientist and Developer with background in maths and physics. My two passio
 
 ### Areas of Interest
 ##### Data Science
-Deep Learning/Neural Networks, Artificial Intelligence, Mathematical Modelling, Simulation, Network Analysis
+Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics, Mathematical Modelling, Agent-based Simulation, Network Analysis
 ##### Development
 Functional Programming, Distributed Systems
 
@@ -33,22 +33,24 @@ Elm, Rust, Coq, Julia
 
 ### Tools/Frameworks
 ##### Data Science
-* Tensorflow (python)
-* Scikit Learn (python)
-* NetworkX (python)
-* Spark (scala/python)
-* AnyLogic (java)
+* [Tensorflow]() (python)
+* [Scikit Learn]() (python)
+* [NetworkX]() (python)
+* [Spark]() (scala/python)
+* [AnyLogic]() (java)
 
 ##### Development
-* Phoenix Framework (elixir)
-* Unity3D (c#)
-* PostgreSQL
-* MongoDB
-* RethinkDB
+* [Phoenix Framework]() (elixir)
+* [Flask]() (elixir)
+* [Graphine]()
+* [Unity3D]() (c#)
+* [PostgreSQL]()
+* [MongoDB]()
+* [RethinkDB]()
 
 ##### DevOps
-* Docker
-* Nginx
+* [Docker]()
+* [Nginx]()
 
 ### Community
 * Co-founder of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
@@ -58,9 +60,9 @@ Elm, Rust, Coq, Julia
 * [Deep Learning with TensorFlow](https://www.meetup.com/es-ES/ml-medellin/events/231887878/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * [Introduction to Spark](https://www.meetup.com/es-ES/ml-medellin/events/232587669/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * [Deep Learning & TensorFlow](https://www.meetup.com/es-ES/Big-Data-Science-Bogota/events/233975872) at [Big Data & Data Science Bogotá](https://www.meetup.com/es-ES/Big-Data-Science-Bogota/)
-* `Deep Learning with TensorFlow` at [pataconf](http://pataconf.com/)
-* `Introduction to Deep Learning with TensorFlow` at [PyCon Colombia](http://www.pycon.co/)
-* `Scalable Deep Learning with TensorFlow` at [ScaleConf Colombia](http://scaleconfco.com/)
+* Deep Learning with TensorFlow at [pataconf](http://pataconf.com/)
+* Introduction to Deep Learning with TensorFlow at [PyCon Colombia](http://www.pycon.co/)
+* Scalable Deep Learning with TensorFlow at [ScaleConf Colombia](http://scaleconfco.com/)
 * [Machine Learning 2017](https://www.meetup.com/es-ES/ml-medellin/events/235930594/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * [TensorFlow for Developers](https://www.meetup.com/es-ES/ml-medellin/events/238072044/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 
@@ -70,14 +72,40 @@ Elm, Rust, Coq, Julia
 * [Neural Networks with TensorFlow for Image Recognition](https://www.youtube.com/watch?v=gD_TJzzA29U) with BD Guidance on Yotube.
 * [Q-Learning with OpenAI Gym + Numpy](https://www.youtube.com/watch?v=Shc-WIuP7oM) with BD Guidance on Yotube.
 
+##### Videos
+* [Deep Reinforcement Learning con TensorFlow para el entorno Lunar Lander de OpenAI Gym ](https://www.youtube.com/watch?v=oV2dqr2Fhek)
+
 ### Open Source
+* [phi](https://github.com/cgarciae/phi): fluent functional programming in python.
+* [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.
+* [tfinterface](https://github.com/cgarciae/tfinterface): develop structured models in tensorflow and get lots functionality for free
+* [cybrain](https://github.com/cgarciae/cybrain): fast neural network in python, written in cython.
+* [karma](https://github.com/cgarciae/karma): MVC library for Unity3D
 
-### Proyects
+### Projects
+* [Basic ConvNet for the German Traffic Signs Dataset](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/solucion-basica)
 
-### Videos
+### e-Learning
+* [Machine Learning](Vincent Vanhoucke) by Andrew Ng on Coursera
+* [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by Geoffrey Hinton on Coursera
+* [Intro to Artificial Inteligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) by Sebastian Thrun and Peter Norvig on Udacity
+* [Artificial Inteligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) by Sebastian Thrun on Udacity
+* [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke (Google) on Udacity
+* [Software Development Process](https://www.udacity.com/course/software-development-process--ud805) by Alex Orso on Udacity.
 
-### Papers I Love
-
+### Things I Love
+##### Papers
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) Mnih et al 2013 (Deep Mind)
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) Mnih et al 2015 (Deep Mind)
+* [Playing FPS Games with Deep Reinforcement Learning](http://www.cs.cmu.edu/~dchaplot/papers/aaai17_fps_games.pdf] Glample et al 2017 (Carnegie Mellon)
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) He et al 2015 (Microsoft)
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) Hinton et al 2014 (Toronto University)
+* [Highway Networks](https://arxiv.org/pdf/1505.00387.pdf) Srivastava et al 2015
+##### Books
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf)
+##### Hobbies
+* Tennis
+* Climbing (boulder)
 
 I have experience developing mobile Augmented Reality applications, server side applications with relational and non-relational databases, web clients, distributed systems.
 
