@@ -15,6 +15,12 @@ Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics,
 ##### Development
 Functional Programming, Distributed Systems
 
+### Experience
+* AristaDev - Cofounder/Developer
+* PTK - Mathematical Developer (2015)
+* Senseta - Data Scientist (2016)
+* BD Guidance - Data Scientist (current)
+
 ### Programming Languages
 * Python: 6+ years
 * Matlab: 6+ years
@@ -33,24 +39,27 @@ Elm, Rust, Coq, Julia
 
 ### Tools/Frameworks
 ##### Data Science
-* [Tensorflow]() (python)
-* [Scikit Learn]() (python)
-* [NetworkX]() (python)
-* [Spark]() (scala/python)
-* [AnyLogic]() (java)
+* [Tensorflow](https://www.tensorflow.org/) (python)
+* [Scikit Learn](http://scikit-learn.org) (python)
+* [Pandas](http://pandas.pydata.org/)
+* [Numpy](http://www.numpy.org/)
+* [NetworkX](https://networkx.github.io/) (python)
+* [Spark](http://spark.apache.org/) (scala/python)
+* [AnyLogic](http://www.anylogic.com/) (java)
 
 ##### Development
-* [Phoenix Framework]() (elixir)
-* [Flask]() (elixir)
-* [Graphine]()
-* [Unity3D]() (c#)
-* [PostgreSQL]()
-* [MongoDB]()
-* [RethinkDB]()
+* [Phoenix Framework](http://www.phoenixframework.org/) (elixir)
+* [Flask](http://flask.pocoo.org/) (python)
+* [Graphine](http://graphene-python.org/) (graphql + python)
+* [Git](https://git-scm.com/)
+* [Unity3D](https://unity3d.com/) (c#)
+* [PostgreSQL](https://www.postgresql.org/)
+* [MongoDB](https://www.mongodb.com/)
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb)
 
 ##### DevOps
-* [Docker]()
-* [Nginx]()
+* [Docker](https://www.docker.com/)
+* [Nginx](https://www.nginx.com/)
 
 ### Community
 * Co-founder of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
@@ -102,60 +111,9 @@ Elm, Rust, Coq, Julia
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) Hinton et al 2014 (Toronto University)
 * [Highway Networks](https://arxiv.org/pdf/1505.00387.pdf) Srivastava et al 2015
 ##### Books
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf)
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Sutton & Barto- 2017
+* [Deep Learning Book](http://www.deeplearningbook.org/) Ian Goodfellow, Yoshua Bengio and Aaron Courville - 2016
+
 ##### Hobbies
 * Tennis
 * Climbing (boulder)
-
-I have experience developing mobile Augmented Reality applications, server side applications with relational and non-relational databases, web clients, distributed systems.
-
-Organizer of Machine Learning Meetup Medellin, Machine Learning Meetup Cali, NeuraLab project at Ruta N, Machine Learning Colombia on Facebook, and Machine Learning Colombia on Github.
-
-I am also the author of some open-source libraries:
-
-- tensorbuilder (deep learning library)
-- phi (functional programming in python)
-- karma (MVC framework for Unity3D)
-- cybrain (neural networks)
-
-Experience
-Simulation and Modelling 
-Matlab
-Partial differential equations, gravitational simulations, thermodynamic models
-AnyLogic, iThink
-Ecological models, population models, agent based simulation, hybrid models
-Network/Graph Theory
-NodeXL, NetworkX
-Centrality analysis, network visualization
-
-Optimization/Heuristics
-Matlab, Python, Mathematica
-Heuristics Methods: Simulated Annealing, Tabu Search, Genetic Algorithms, Swarm Optimization.
-Non-linear optimization: Newton Methods with types of Line Search.
-Applications: Timetabling, Traveling Salesman, SAT, Graph search.
-
-Machine Learning
-Python, Cython, Matlab
-Online Courses: Machine Learning (Andrew Ng), Neural Networks (Geoffrey Hinton), AI for Robotics (Sebastian Thrun)
-Neural Networks/Deep Learning
-Creator of CyBrain & TensorBuilder 
-Software Development
-Companies
-Arista Dev - Lead Developer (co-founder)
-PTK - R&D (part-time)
-Senseta - Big Data
-Experience
-Server Side
-Elixir/Phoenix
-PostgreSQL
-Nginx
-Docker
-Mobile
- C#/Unity3D
-Augmented Reality
-Web
-Elm
-Canvas/WebGL
-Other technologies
-Git
-Docker
