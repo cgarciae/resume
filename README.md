@@ -1,4 +1,4 @@
-# Resume Cristian Garcia
+# Cristian Garcia
 Data Scientist + Developer with Background in Maths & Physics
 
 ### Contact Info
