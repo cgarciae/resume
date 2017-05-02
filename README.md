@@ -9,67 +9,51 @@ Data Scientist + Developer with Background in Maths & Physics
 ### Summary
 Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications and my love for functional programming, however my area of interest has always been scientific computation and enjoy programming deep neural networks in tensorflow.
 
-### Areas of Interest
-##### Data Science
-Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics, Mathematical Modelling, Agent-based Simulation, Network Analysis
-##### Development
-Functional Programming, Distributed Systems
-
 ### Experience
 * AristaDev - Cofounder/Developer
 * PTK - Mathematical Developer (2015)
 * Senseta - Data Scientist (2016)
 * BD Guidance - Data Scientist (current)
 
+### Open Source
+* [phi](https://github.com/cgarciae/phi): fluent functional programming in python.
+* [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.
+* [tfinterface](https://github.com/cgarciae/tfinterface): develop structured models in tensorflow and get lots functionality for free
+* [cybrain](https://github.com/cgarciae/cybrain): fast neural network in python, written in cython.
+* [karma](https://github.com/cgarciae/karma): MVC library for Unity3D
+
+### Areas of Interest
+##### Data Science
+Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics, Mathematical Modelling, Agent-based Simulation, Network Analysis
+##### Development
+Functional Programming, Distributed Systems
+
 ### Languages
 * Spanish: native
 * English: C2, bilingual school since 4 years old
 
 ### Programming Languages
-* Python: 6+ years
-* Matlab: 6+ years
-* Mathematica : 3+ years
-* C#: 2+ years
-* Elixir: 2+ years
-* JavaScript: 1+ years
-* Dart: 1+ years
-* Cython: 1+ years
+Python: 6+ years, Matlab: 6+ years, Mathematica : 3+ years, C#: 2+ years, Elixir: 2+ years, JavaScript: 1+ years, Dart: 1+ years, Cython: 1+ years
 
 ##### Mini-proyects
-C, Haskell, Java, Lisp, Scala
-
-##### Played With
-Elm, Rust, Coq, Julia
+C, Haskell, Java, Lisp, Scala, Elm, Rust, Coq, Julia
 
 ### Tools/Frameworks
 ##### Data Science
-* [Tensorflow](https://www.tensorflow.org/) (python)
-* [Scikit Learn](http://scikit-learn.org) (python)
-* [Pandas](http://pandas.pydata.org/)
-* [Numpy](http://www.numpy.org/)
-* [NetworkX](https://networkx.github.io/) (python)
-* [Spark](http://spark.apache.org/) (scala/python)
-* [AnyLogic](http://www.anylogic.com/) (java)
+[Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/), [NetworkX](https://networkx.github.io/) (python), [Spark](http://spark.apache.org/) (scala/python), [AnyLogic](http://www.anylogic.com/) (java)
 
 ##### Development
-* [Phoenix Framework](http://www.phoenixframework.org/) (elixir)
-* [Flask](http://flask.pocoo.org/) (python)
-* [Graphine](http://graphene-python.org/) (graphql + python)
-* [Git](https://git-scm.com/)
-* [Unity3D](https://unity3d.com/) (c#)
-* [PostgreSQL](https://www.postgresql.org/)
-* [MongoDB](https://www.mongodb.com/)
-* [RethinkDB](https://github.com/rethinkdb/rethinkdb)
+[Phoenix Framework](http://www.phoenixframework.org/) (elixir), [Flask](http://flask.pocoo.org/) (python), [Graphine](http://graphene-python.org/) (graphql + python), [Git](https://git-scm.com/), [Unity3D](https://unity3d.com/) (c#), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [RethinkDB](https://github.com/rethinkdb/rethinkdb)
 
 ##### DevOps
-* [Docker](https://www.docker.com/)
-* [Nginx](https://www.nginx.com/)
+[Docker](https://www.docker.com/), [Nginx](https://www.nginx.com/)
 
 ### Community
 ##### Organizations/Groups
 * Co-founder of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
 * Co-founder of [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * Founder of [colomb-ia](https://github.com/colomb-ia/mision-vision)
+
 ##### Talks/Conferences
 * [Deep Learning with TensorFlow](https://www.meetup.com/es-ES/ml-medellin/events/231887878/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
 * [Introduction to Spark](https://www.meetup.com/es-ES/ml-medellin/events/232587669/) at [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
@@ -88,13 +72,6 @@ Elm, Rust, Coq, Julia
 
 ##### Videos
 * [Deep Reinforcement Learning con TensorFlow para el entorno Lunar Lander de OpenAI Gym ](https://www.youtube.com/watch?v=oV2dqr2Fhek)
-
-### Open Source
-* [phi](https://github.com/cgarciae/phi): fluent functional programming in python.
-* [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.
-* [tfinterface](https://github.com/cgarciae/tfinterface): develop structured models in tensorflow and get lots functionality for free
-* [cybrain](https://github.com/cgarciae/cybrain): fast neural network in python, written in cython.
-* [karma](https://github.com/cgarciae/karma): MVC library for Unity3D
 
 ### Projects
 * [Basic ConvNet for the German Traffic Signs Dataset](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/solucion-basica)
@@ -115,6 +92,7 @@ Elm, Rust, Coq, Julia
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) He et al 2015 (Microsoft)
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) Hinton et al 2014 (Toronto University)
 * [Highway Networks](https://arxiv.org/pdf/1505.00387.pdf) Srivastava et al 2015
+
 ##### Books
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Sutton & Barto- 2017
 * [Deep Learning Book](http://www.deeplearningbook.org/) Ian Goodfellow, Yoshua Bengio and Aaron Courville - 2016
