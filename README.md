@@ -35,7 +35,7 @@ Functional Programming, Distributed Systems
 ### Programming Languages
 Python: 6+ years, Matlab: 6+ years, Mathematica : 3+ years, C#: 2+ years, Elixir: 2+ years, JavaScript: 1+ years, Dart: 1+ years, Cython: 1+ years
 
-##### Mini-proyects
+##### Mini-projects
 C, Haskell, Java, Lisp, Scala, Elm, Rust, Coq, Julia
 
 ### Tools/Frameworks
