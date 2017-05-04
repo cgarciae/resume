@@ -10,10 +10,10 @@ Data Scientist + Developer with Background in Maths & Physics
 Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications and my love for functional programming, however my area of interest has always been scientific computation and enjoy programming deep neural networks in tensorflow.
 
 ### Experience
-* AristaDev - Cofounder/Developer
-* PTK - Mathematical Developer (2015)
-* Senseta - Data Scientist (2016)
-* BD Guidance - Data Scientist (current)
+* AristaDev - Cofounder/Developer: Cofounder and main developer on an Augmented Reality platform. I developed the mobile client and backend of Arista using tecnologies such as Unity3D, Elixir, Docker, Nginx, and PostgreSQL.
+* PTK - Mathematical Developer (2015): Researched on strategies to optimize pickup planning in warehouses. Researched on technologies to create scalable multi-tenant software.
+* Senseta - Data Scientist (2016): Developed a Linux and Windows python application for HR software to measure employee productivity. Cleaned and analyzed large datasets using Spark and Zeppelin. Created a service in Python for Entity extracting using NLTK. Created a generic ML prediction service using Scikit Learning and Flask.
+* BD Guidance - Data Scientist (current): Designed the curriculum of various Data Science/ML courses. Evaluated various IoT platforms. Investigated technologies such a TensorFlow and OpenCV to run ML algorithms in IoT devices.
 
 ### Open Source
 * [phi](https://github.com/cgarciae/phi): fluent functional programming in python.
