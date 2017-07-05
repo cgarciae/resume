@@ -33,10 +33,10 @@ Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics,
 Python: 6+ years, Matlab: 6+ years, Mathematica : 3+ years, C#: 2+ years, Elixir: 2+ years, JavaScript: 1+ years, Dart: 1+ years, Cython: 1+ years, C, Haskell, Java, Lisp, Scala, Elm, Rust, Coq, Julia
 
 ### Tools/Frameworks
-** Data Science: **
+**Data Science:**
 [Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/), [NetworkX](https://networkx.github.io/) (python), [Spark](http://spark.apache.org/) (scala/python), [AnyLogic](http://www.anylogic.com/) (java)
 
-** Development: **
+**Development:**
 [Phoenix Framework](http://www.phoenixframework.org/) (elixir), [Flask](http://flask.pocoo.org/) (python), [Graphine](http://graphene-python.org/) (graphql + python), [Git](https://git-scm.com/), [Unity3D](https://unity3d.com/) (c#), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [RethinkDB](https://github.com/rethinkdb/rethinkdb)
 
 
