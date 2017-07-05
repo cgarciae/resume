@@ -75,6 +75,8 @@ C, Haskell, Java, Lisp, Scala, Elm, Rust, Coq, Julia
 
 ### Projects
 * [Basic ConvNet for the German Traffic Signs Dataset](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/solucion-basica)
+* [SqueezeNet with Batch Normalization on TensorFlow](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/batch-norm-squeeze-net)
+* [An implementation DenseNet with ELU layers on TensorFlow ](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/dense-net-elu-2)
 
 ### e-Learning
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
