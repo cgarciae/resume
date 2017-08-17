@@ -1,0 +1,3 @@
+#! /bin/bash
+
+pdflatex README.md.tex
