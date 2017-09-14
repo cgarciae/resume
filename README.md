@@ -10,8 +10,8 @@ Data Scientist + Developer with Background in Maths & Physics
 Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications and my love for functional programming, however my area of interest has always been scientific computation and enjoy programming deep neural networks in tensorflow.
 
 ### Experience
-* **Toptal Developer** - Coming soon!
-* **Kiwi Campus** - Lead Data Scientist (current): Designed the curriculum of various Data Science/ML courses. Evaluated various IoT platforms. Investigated technologies such a TensorFlow and OpenCV to run ML algorithms in IoT devices.
+* **Toptal Developer** - [Cristian Garcia](https://www.toptal.com/resume/cristian-garcia)
+* **Kiwi Campus** - Lead Data Scientist (current): Lead Data Scientist and Deep Learning developer for autonomous driving delivery robots. Used Deep Learning techniques like CNNs and RNNs for autonomous control, and technologies such as TensorFlow, Jupyter, Flask.
 * **BD Guidance** - Data Scientist: Designed the curriculum of various Data Science/ML courses. Evaluated various IoT platforms. Investigated technologies such a TensorFlow and OpenCV to run ML algorithms in IoT devices.
 * **Senseta** - Data Scientist (2016): Developed a Linux and Windows python application for HR software to measure employee productivity. Cleaned and analyzed large datasets using Spark and Zeppelin. Created a service in Python for Entity extracting using NLTK. Created a generic ML prediction service using Scikit Learning and Flask.
 * **PTK** - Mathematical Developer (2015): Researched on strategies to optimize pickup planning in warehouses. Researched on technologies to create scalable multi-tenant software.
