@@ -7,7 +7,7 @@ Data Scientist + Developer with Background in Maths & Physics
 * linkedin: [https://www.linkedin.com/in/cgarciae/](https://www.linkedin.com/in/cgarciae/)
 
 ### Summary
-Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications and my love for functional programming, however my area of interest has always been scientific computation and enjoy programming deep neural networks in tensorflow.
+Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications. My interest is in Deep Learning and Deep Reinforcement Learning. My favorite frameworks are TensorFlow, ScikitLearn and Spark.
 
 ### Experience
 * **Toptal Developer** - [Cristian Garcia](https://www.toptal.com/resume/cristian-garcia)
