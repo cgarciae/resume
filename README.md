@@ -7,20 +7,20 @@ Data Scientist + Developer with Background in Maths & Physics
 * linkedin: [https://www.linkedin.com/in/cgarciae/](https://www.linkedin.com/in/cgarciae/)
 
 ### Summary
-Data Scientist and Developer with background in maths and physics. My two passions are programming and deep learning, I consider myself a strong programmer/developer given my experience creating real world applications. My interest is in Deep Learning and Deep Reinforcement Learning. My favorite frameworks are TensorFlow, ScikitLearn and Spark.
+Data Scientist and Software Developer with a strong background in math, physics, programming, deep learning, and deep reinforcement learning. Extensive experience creating real world applications. Expert on several frameworks, including TensorFlow, Keras, scikit-learn and Spark. Member of Toptal.com (Top 3% of freelance developers in the world).
 
 ### Experience
-* **Toptal Developer** - [Cristian Garcia](https://www.toptal.com/resume/cristian-garcia)
 * **Kiwi Campus** - Lead Data Scientist (current): Lead Data Scientist and Deep Learning developer for autonomous driving delivery robots. Used Deep Learning techniques like CNNs and RNNs for autonomous control, with technologies such as TensorFlow, ROS, Jupyter, Flask.
+* **Toptal Developer** (current) - [Cristian Garcia](https://www.toptal.com/resume/cristian-garcia)
 * **BD Guidance** - Data Scientist: Designed the curriculum of various Data Science/ML courses. Evaluated various IoT platforms. Investigated technologies such a TensorFlow and OpenCV to run ML algorithms in IoT devices.
-* **Senseta** - Data Scientist (2016): Developed a Linux and Windows python application for HR software to measure employee productivity. Cleaned and analyzed large datasets using Spark and Zeppelin. Created a service in Python for Entity extracting using NLTK. Created a generic ML prediction service using Scikit Learning and Flask.
+* **Senseta** - Data Scientist (2016): Developed a Linux and Windows Python application for HR software to measure employee productivity. Cleaned and analyzed large datasets using Spark and Zeppelin. Created a service in Python for Entity extracting using NLTK. Created a generic ML prediction service using Scikit Learning and Flask.
 * **PTK** - Mathematical Developer (2015): Researched on strategies to optimize pickup planning in warehouses. Researched on technologies to create scalable multi-tenant software.
-* **AristaDev** - Cofounder/Developer: Cofounder and main developer on an Augmented Reality platform. I developed the mobile client and backend of Arista using tecnologies such as Unity3D, Elixir, Docker, Nginx, and PostgreSQL.
+* **AristaDev** - Cofounder/Developer: Cofounder and main developer on an Augmented Reality platform. Developed the mobile client and backend of Arista using tecnologies such as Unity3D, Elixir, Docker, Nginx, and PostgreSQL.
 
 
 
 
-### Open Source
+### Open Source Projects Developed
 * [phi](https://github.com/cgarciae/phi): fluent functional programming in python.
 * [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.
 * [tfinterface](https://github.com/cgarciae/tfinterface): develop structured models in tensorflow and get lots functionality for free
@@ -31,8 +31,8 @@ Data Scientist and Developer with background in maths and physics. My two passio
 Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics, Mathematical Modelling, Agent-based Simulation, Network Analysis, Functional Programming, Distributed Systems
 
 ### Languages
+* English: fluent
 * Spanish: native
-* English: C2, bilingual school since 4 years old
 
 ### Programming Languages
 Python: 6+ years, Matlab: 6+ years, Mathematica : 3+ years, C#: 2+ years, Elixir: 2+ years, JavaScript: 1+ years, Dart: 1+ years, Cython: 1+ years, C, Haskell, Java, Lisp, Scala, Elm, Rust, Coq, Julia
