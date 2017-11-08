@@ -2,7 +2,7 @@ version: '2'
 
 services:
   latex:
-    image: tianon/latex
+    build: .
     volumes:
       - ./:/code
     working_dir: /code
