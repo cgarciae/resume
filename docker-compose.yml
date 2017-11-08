@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  latex:
+    image: tianon/latex
+    volumes:
+      - ./:/code
+    working_dir: /code
+    command: bash generate
