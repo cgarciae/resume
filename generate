@@ -1,6 +1,5 @@
 #! /bin/bash
 
 xelatex resume.tex
-pandoc -S -o README.md resume.tex --variable urlcolor=blue
 mv resume.pdf Cristian-Garcia.pdf
 cp Cristian-Garcia.pdf README.pdf
