@@ -12,7 +12,7 @@ Machine Learning Engineer
 
 ## Currently
 
-Machine Learning Engineer at Quansight
+Machine Learning Engineer at Quansight <br>
 Author of Elegy, Treex, and Treeo
 
 ## Summary
@@ -44,49 +44,32 @@ SQL, Bash, Docker, KubeFlow, GCP, AWS
 `current`
 **Toptal**
 - Machine Learning Consultant
-- Remote
-- Machine Learning contractor for clients in the Toptal network.
-
 
 `1 year`
 **Snappr Inc**
 - Senior Machine Learning Engineer
-- Medellin
-- Developed Machine Learning applications to automate tasks throughout the company such as client sales prediction, demand forecast, photo aesthetics prediction, image clustering, models using GIS data, and more using both Machine Learning and Deep Learning.
-
+- Machine Learning, demand forecast, photo aesthetics prediction, image clustering.
 
 
 `1 year`
 **Landing AI**
 - Machine Learning Engineer
-- Medellin
-- Developed Automatic Visual Inspection solutions using Deep Learning techniques for clients in the automotive industry. Developed an internal tool to that enabled training deep learning models with small datasets. Worked on a generative model for images using GANs.
-
-
+- Deep Learning, Automatic Visual Inspection for the automotive industry, synthetic data generation, GANs.
 
 `6 months`
 **Bigbang Media**
 - Lead Engineer in Computer Vision
-- Los Angeles, CA
-- Developed various Deep Learning models for tasks like video classification and event detection in videos using distributed Tensorflow, TPUs, and Dataflow.
-
+- Deep Learning, video classification, Tensorflow, TPUs, and Dataflow.
 
 
 `1 year`
 **Kiwi Campus**
-- Lead Data Scientist
-- Berkeley
-- Lead Data Scientist and Deep Learning developer for autonomous driving delivery robots. Used
-Deep Learning techniques like CNNs and RNNs for autonomous control,
-with technologies such as TensorFlow, ROS, Jupyter, Flask.
+- Lead Machine Learning Engineer
+- Deep Learning, autonomous driving delivery robots, computer vision, TensorFlow, ROS.
 
 
 `1 year`
 **Senseta**
 - Data Scientist
 - Medellin
-- Developed a Linux and Windows python
-application for HR software to measure employee productivity. Cleaned
-and analyzed large datasets using Spark and Zeppelin. Created a service in
-Python for Entity extracting using NLTK. Created a generic ML prediction
-service using Scikit Learning and Flask
+- Machine Learning, Spark, Zeppelin, Scikit Learning, Flask.
