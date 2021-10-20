@@ -3,17 +3,17 @@ layout: cv
 title: Cristian Garcia - Resume
 ---
 # Cristian Garcia
+<br>
 Machine Learning Engineer
 
-<div id="webaddress">
-<a href="cgarcia.e88@gmail.com">cgarcia.e88@gmail.com</a>
-</div>
-
+- <cgarcia.e88@gmail.com>
+- ![twitter](http://i.imgur.com/tXSoThF.png) [@cgarciae88](https://twitter.com/cgarciae88)
+<!-- - ![linkedin](http://i.imgur.com/XQZQZQb.png) [@cgarciae](https://www.linkedin.com/in/cgarciae) -->
 
 ## Currently
 
 Machine Learning Engineer at Quansight <br>
-Author of Elegy, Treex, and Treeo
+Author of Elegy and Treex
 
 ## Summary
 
