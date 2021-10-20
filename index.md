@@ -15,6 +15,9 @@ title: Cristian Garcia - Resume
 Machine Learning Engineer at Quansight <br>
 Author of Elegy and Treex
 
+## Specialized in
+Machine Learning, Deep Learning, MLOps, Open Source
+
 ## Summary
 
 Machine Learning Engineer and Software Developer with a background in math and physics. Extensive
@@ -27,9 +30,6 @@ Author of various Python open source projects including Elegy, Treex, Treeo and 
 ### Community
 Community leader and active speaker at conferences world-wide, founder of the Machine Learning Meetup Medellin, and cofounder of Machine Learning Colombia.
 
-## Specialized in
-
-Machine Learning, Deep Learning, MLOps, Open Source
 
 ## Skills
 Python (10+ years), TensorFlow, Pytorch, Jax, Numpy, Pandas, Scikit-Learn, Spark, Flask, FastAPI,
