@@ -17,7 +17,7 @@ Machine Learning Engineer
 Machine Learning Engineer at Quansight <br>
 Author of Elegy and Treex
 
-## Specialized in
+### Specialized in
 Machine Learning, Deep Learning, MLOps, Open Source
 
 ## Summary
