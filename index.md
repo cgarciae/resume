@@ -4,7 +4,9 @@ title: Cristian Garcia - Resume
 ---
 # Cristian Garcia
 
-**Machine Learning Engineer**
+Machine Learning Engineer
+
+<br>
 
 - ![email](media/email.png) <cgarcia.e88@gmail.com>
 - ![twitter](media/twitter.png) [@cgarciae88](https://twitter.com/cgarciae88)
