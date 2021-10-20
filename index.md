@@ -29,7 +29,7 @@ Community leader and active speaker at conferences world-wide, founder of the Ma
 
 ## Specialized in
 
-Machine Learning, Deep Learning
+Machine Learning, Deep Learning, MLOps, Open Source
 
 ## Skills
 Python (10+ years), TensorFlow, Pytorch, Jax, Numpy, Pandas, Scikit-Learn, Spark, Flask, FastAPI,
