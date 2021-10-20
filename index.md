@@ -3,12 +3,12 @@ layout: cv
 title: Cristian Garcia - Resume
 ---
 # Cristian Garcia
-<br>
-Machine Learning Engineer
 
-- <cgarcia.e88@gmail.com>
-- ![twitter](http://i.imgur.com/tXSoThF.png) [@cgarciae88](https://twitter.com/cgarciae88)
-<!-- - ![linkedin](http://i.imgur.com/XQZQZQb.png) [@cgarciae](https://www.linkedin.com/in/cgarciae) -->
+**Machine Learning Engineer**
+
+- ![email](media/email.png) <cgarcia.e88@gmail.com>
+- ![twitter](media/twitter.png) [@cgarciae88](https://twitter.com/cgarciae88)
+- ![linkedin](media/linkedin.png) [@cgarciae](https://www.linkedin.com/in/cgarciae)
 
 ## Currently
 
