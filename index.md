@@ -21,10 +21,10 @@ Machine Learning Engineer and Software Developer with a background in math and p
 experience creating ML applications in fields such as autonomous vehicles, video analytics, and
 manufacturing. Strong combination of theory, coding, and infrastructure knowledge. Member of Toptal: top 3% of the developer talent in the world.
 
-**Open Source**<br>
+#### Open Source
 Author of various Python open source projects including Elegy, Treex, Treeo and Pypeln. Contributed to Tensorflow Addons, Spektral, Einops, and other projects.
 
-**Community**<br>
+#### Community
 Community leader and active speaker at conferences world-wide, founder of the Machine Learning Meetup Medellin, and cofounder of Machine Learning Colombia.
 
 ## Specialized in
