@@ -48,28 +48,27 @@ SQL, Bash, Docker, KubeFlow, GCP, AWS
 `1 year`
 **Snappr Inc**
 - Senior Machine Learning Engineer
-- Machine Learning, demand forecast, photo aesthetics prediction, image clustering.
+- _Machine Learning, demand forecast, photo aesthetics prediction, image clustering._
 
 
 `1 year`
 **Landing AI**
 - Machine Learning Engineer
-- Deep Learning, Automatic Visual Inspection for the automotive industry, synthetic data generation, GANs.
+- _Deep Learning, Automatic Visual Inspection for the automotive industry, synthetic data generation, GANs_
 
 `6 months`
 **Bigbang Media**
 - Lead Engineer in Computer Vision
-- Deep Learning, video classification, Tensorflow, TPUs, and Dataflow.
+- _Deep Learning, video classification, Tensorflow, TPUs, and Dataflow_
 
 
 `1 year`
 **Kiwi Campus**
 - Lead Machine Learning Engineer
-- Deep Learning, autonomous driving delivery robots, computer vision, TensorFlow, ROS.
+- _Deep Learning, autonomous driving delivery robots, computer vision, TensorFlow, ROS_
 
 
 `1 year`
 **Senseta**
 - Data Scientist
-- Medellin
-- Machine Learning, Spark, Zeppelin, Scikit Learning, Flask.
+- _Machine Learning, Spark, Zeppelin, Scikit Learning, Flask_
