@@ -4,6 +4,8 @@ title: Cristian Garcia - Resume
 ---
 # Cristian Garcia
 
+<br>
+
 Machine Learning Engineer
 
 <br>
