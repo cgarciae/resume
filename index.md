@@ -17,17 +17,14 @@ Author of Elegy, Treex, and Treeo
 
 ## Summary
 
-### Industry
 Machine Learning Engineer and Software Developer with a background in math and physics. Extensive
-experience creating Machine Learning applications in fields such as autonomous vehicles, video analytics, and
-manufacturing. Strong combination of theory, coding, and infrastructure knowledge.
+experience creating ML applications in fields such as autonomous vehicles, video analytics, and
+manufacturing. Strong combination of theory, coding, and infrastructure knowledge. Member of Toptal: top 3% of the developer talent in the world.
 
-Member of Toptal: top 3% of the developer talent in the world.
+**Open Source**<br>
+Author of various Python open source projects including Elegy, Treex, Treeo and Pypeln. Contributed to Tensorflow Addons, Spektral, Einops, and other projects.
 
-### Open Source
-Author of various Python open source projects including Elegy, Treex, Treeo and Pypeln. Contributor to Tensorflow Addons. 
-
-### Community
+**Community**<br>
 Community leader and active speaker at conferences world-wide, founder of the Machine Learning Meetup Medellin, and cofounder of Machine Learning Colombia.
 
 ## Specialized in
@@ -42,8 +39,9 @@ SQL, Bash, Docker, KubeFlow, GCP, AWS
 ## Experience
 
 `current`
-**Toptal**
-- Machine Learning Consultant
+**Quansight**
+- Software Developer / Machine Learning Engineer
+- Open Source, Machine Learning, time series for trading, Scikit Learn, Jax.
 
 `1 year`
 **Snappr Inc**
