@@ -10,9 +10,7 @@ Machine Learning Engineer
 
 <br>
 
-- ![email](media/email.png) <cgarcia.e88@gmail.com>
-- ![twitter](media/twitter.png) [@cgarciae88](https://twitter.com/cgarciae88)
-- ![linkedin](media/linkedin.png) [@cgarciae](https://www.linkedin.com/in/cgarciae)
+![email](media/email.png) <cgarcia.e88@gmail.com> - ![twitter](media/twitter.png) [@cgarciae88](https://twitter.com/cgarciae88) - ![linkedin](media/linkedin.png) [@cgarciae](https://www.linkedin.com/in/cgarciae)
 
 ## Currently
 
@@ -45,7 +43,7 @@ SQL, Bash, Docker, KubeFlow, GCP, AWS
 `current`
 **Quansight**
 - Software Developer / Machine Learning Engineer
-- Open Source, Machine Learning, time series for trading, Scikit Learn, Jax.
+- Open Source, Machine Learning, time series for trading, sklearn, jax.
 
 `1 year`
 **Snappr Inc**
